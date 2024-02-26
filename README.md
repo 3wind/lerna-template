@@ -1,0 +1,2 @@
+# lerna-template
+lerna Monorepo
